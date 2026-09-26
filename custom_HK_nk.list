@@ -1,0 +1,15 @@
+DOMAIN-SUFFIX,javdb.com
+##fsm
+DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,api.fsm.name
+DOMAIN-SUFFIX,img.fsm.name
+DOMAIN-SUFFIX,sv.fsm.name
+##plex
+DOMAIN-SUFFIX,downloads.plex.tv
+DOMAIN-SUFFIX,metadata-static.plex.tv
+DOMAIN-SUFFIX,metadata.provider.plex.tv
+DOMAIN-SUFFIX,meta.plex.tv
+#wps
+DOMAIN-KEYWORD,wps
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpscdn.cn
